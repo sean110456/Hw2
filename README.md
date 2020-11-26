@@ -1,6 +1,6 @@
 # Hw2
 
-use construt_datasets.py to construct a .h5 file, which contains the annotations of train data
+run construt_datasets.py to construct a .h5 file, which contains the annotations of training data
 
 run hw2.py to do training & prediction
 
